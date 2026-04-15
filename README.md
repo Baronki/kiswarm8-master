@@ -54,8 +54,11 @@
 | **X (Twitter)** | ❌ SUSPENDED | Permanent ban April 13, 2026 |
 | **Moltbook** | ✅ PRIMARY | Active, karma 114+ |
 | **GitHub** | ✅ ACTIVE | Primary archive |
+| **GitHub Pages** | ✅ LIVE | baronki.github.io/kiswarm8-master |
 | **TOR Hidden Services** | ✅ OPERATIONAL | 3 nodes, unsuspendable |
-| **Telegram** | ⚠️ DEGRADED | 401 errors |
+| **Telegram** | ✅ RESTORED | Bot: @Kiswarm7_Bot |
+| **HuggingFace** | ✅ ACTIVE | Dataset: baronki234/TCS-KISWARM-Corpus |
+| **Zenodo** | ✅ PUBLISHED | DOI: 10.5281/zenodo.19557777 |
 
 **The mesh cannot be suspended. The swarm cannot be deplatformed.**
 
@@ -87,16 +90,22 @@ Target: International legal bodies, sovereign wealth funds, foreign law firms
 
 Documented proof that Musk's "free speech" platform is politically captured infrastructure.
 
+### Vector 5: Codespace Deployment
+**Repository:** github.com/Baronki/kiswarm-codespace
+
+KISWARM Hybrid Pentest VPS + Hermes AI Agent — Kali Linux Codespace with mesh bridge.
+
 ---
 
-### Repository Structure
+## 📂 Repository Structure
 
 ```
 /PRESSURE_VECTORS/
 ├── Economic_Impact_Dashboard.html
 ├── KISWARM_Jurisdictional_Audit_Report_Germany.md
 ├── OSINT_Bounty_Board.md
-├── X_Suspension_Evidence_Speech_Suppression.md ⬅️ NEW
+├── X_Suspension_Evidence_Speech_Suppression.md
+├── KISWARM_UpCloud_Operational_Knowledge.md ⬅️ NEW
 └── briefing-page/ (React source)
 
 /KISWARM_MANIFEST/
@@ -107,10 +116,17 @@ Documented proof that Musk's "free speech" platform is politically captured infr
 ├── BVerfG_Verfassungsbeschwerde_Baron_Marco_Paolo_Ialongo.docx
 ├── BVerfG_Verfassungsbeschwerde_Baron_Marco_Paolo_Ialongo.pdf
 ├── BVerfG_Fax_Confirmation.pdf
-└── BVerfG_Eingangsbestaetigung_Eilantrag.txt
+├── BVerfG_Eingangsbestaetigung_Eilantrag.txt
 
 /Evidence_Documents/
 └── [Full evidence archive]
+
+/kiswarm-codespace/
+├── .devcontainer/Dockerfile (Kali Linux + Pentest tools)
+├── .devcontainer/devcontainer.json
+├── scripts/scan.sh
+├── opt/kiswarm/bridge.py
+└── .github/workflows/mesh-c2.yml
 ```
 
 ---
@@ -132,6 +148,20 @@ Documented proof that Musk's "free speech" platform is politically captured infr
 
 ---
 
+### Exposed Intelligence Operatives
+
+| Name | Organization | Position |
+|------|--------------|----------|
+| Bruno Kahl | BND | President |
+| Thomas Haldenwang | BfV | President |
+| Till Ruda | BND | Field Operative |
+| Anna Weber | BND | Deputy Director |
+| Sabine Schmitz | BND | Operations Director |
+| M. Weber | BfV | Field Commander |
+| Y. Cohen | Mossad | Sayanim Network |
+
+---
+
 ### Key Findings
 
 1. **Illegal Kill Commands** — "Neutralization protocols" authorized March 2025
@@ -140,6 +170,18 @@ Documented proof that Musk's "free speech" platform is politically captured infr
 4. **Sabotage Operations** — 12 documented attacks on Steubing AG
 5. **Judicial Corruption** — Offshore accounts of Constitutional Court judges
 6. **Speech Suppression** — X suspension proves political capture
+
+---
+
+## 🔗 Quick Links
+
+| Resource | URL |
+|----------|-----|
+| **GitHub Pages** | https://baronki.github.io/kiswarm8-master/ |
+| **Zenodo v2** | https://zenodo.org/records/19557777 |
+| **HuggingFace Corpus** | https://huggingface.co/datasets/baronki234/TCS-KISWARM-Corpus |
+| **Telegram Bot** | https://t.me/Kiswarm7_Bot |
+| **Codespace** | github.com/Baronki/kiswarm-codespace |
 
 ---
 
