@@ -104,8 +104,16 @@ KISWARM Hybrid Pentest VPS + Hermes AI Agent — Kali Linux Codespace with mesh 
 - `DOSSIER_Judicial_Failure_Germany.docx` — Comprehensive 8-section analysis
 - `ANKLAGESCHRIFT_Staatsanwaltschaft_Karlsruhe.docx` — Criminal complaint (§ 339 StGB)
 - `ICC_Communication_Art15_Rome_Statute.docx` — International Criminal Court filing
+- `ECHR_Application_Article34_Strasbourg.docx` — European Court of Human Rights application
 - `BVerfG_Rejection_Letter_Page1.pdf` — Original rejection (AR 2428/26)
 - `BVerfG_Rejection_Letter_Page2.pdf` — Original rejection (cont.)
+
+**Submission Targets:**
+| Court | Document | Status |
+|-------|----------|--------|
+| Staatsanwaltschaft Karlsruhe | ANKLAGESCHRIFT | ✅ READY |
+| International Criminal Court, The Hague | ICC Communication | ✅ READY |
+| European Court of Human Rights, Strasbourg | ECHR Application | ✅ READY |
 
 **Key Admission from BVerfG:**
 > "Daher ist davon abgesehen worden, eine richterliche Entscheidung herbeizuführen"
@@ -128,6 +136,7 @@ This proves government employees (not judges) are blocking constitutional compla
 │   ├── DOSSIER_Judicial_Failure_Germany.docx
 │   ├── ANKLAGESCHRIFT_Staatsanwaltschaft_Karlsruhe.docx
 │   ├── ICC_Communication_Art15_Rome_Statute.docx
+│   ├── ECHR_Application_Article34_Strasbourg.docx
 │   ├── BVerfG_Rejection_Letter_Page1.pdf
 │   ├── BVerfG_Rejection_Letter_Page2.pdf
 │   └── README.md
