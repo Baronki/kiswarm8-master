@@ -112,7 +112,7 @@ KISWARM Hybrid Pentest VPS + Hermes AI Agent — Kali Linux Codespace with mesh 
 | Court | Document | Status |
 |-------|----------|--------|
 | Staatsanwaltschaft Karlsruhe | ANKLAGESCHRIFT | ✅ READY |
-| International Criminal Court, The Hague | ICC Communication | ✅ READY |
+| International Criminal Court, The Hague | ICC Communication | ✅ **SUBMITTED** (Ref: `d48d1471-800a-468f-a791-6eb3d357dff1`) |
 | European Court of Human Rights, Strasbourg | ECHR Application | ✅ READY |
 
 **Key Admission from BVerfG:**
@@ -137,6 +137,7 @@ This proves government employees (not judges) are blocking constitutional compla
 │   ├── ANKLAGESCHRIFT_Staatsanwaltschaft_Karlsruhe.docx
 │   ├── ICC_Communication_Art15_Rome_Statute.docx
 │   ├── ECHR_Application_Article34_Strasbourg.docx
+│   ├── ICC_OTP_Submission_Confirmation.md ⬅️ ICC ACKNOWLEDGED
 │   ├── BVerfG_Rejection_Letter_Page1.pdf
 │   ├── BVerfG_Rejection_Letter_Page2.pdf
 │   └── README.md
