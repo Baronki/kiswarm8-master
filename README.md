@@ -95,6 +95,24 @@ Documented proof that Musk's "free speech" platform is politically captured infr
 
 KISWARM Hybrid Pentest VPS + Hermes AI Agent — Kali Linux Codespace with mesh bridge.
 
+### 🔴 Vector 6: JUDICIAL FAILURE DOSSIER — PROOF OF CONSTITUTIONAL COLLAPSE
+**Directory:** `/PRESSURE_VECTORS/JUDICIAL_FAILURE/`
+
+**CRITICAL EVIDENCE:** The Federal Constitutional Court (BVerfG) rejected a constitutional complaint through administrative staff WITHOUT judicial review.
+
+**Key Documents:**
+- `DOSSIER_Judicial_Failure_Germany.docx` — Comprehensive 8-section analysis
+- `ANKLAGESCHRIFT_Staatsanwaltschaft_Karlsruhe.docx` — Criminal complaint (§ 339 StGB)
+- `ICC_Communication_Art15_Rome_Statute.docx` — International Criminal Court filing
+- `BVerfG_Rejection_Letter_Page1.pdf` — Original rejection (AR 2428/26)
+- `BVerfG_Rejection_Letter_Page2.pdf` — Original rejection (cont.)
+
+**Key Admission from BVerfG:**
+> "Daher ist davon abgesehen worden, eine richterliche Entscheidung herbeizuführen"
+> ("Therefore, it has been refrained from initiating a judicial decision")
+
+This proves government employees (not judges) are blocking constitutional complaints.
+
 ---
 
 ## 📂 Repository Structure
@@ -105,7 +123,14 @@ KISWARM Hybrid Pentest VPS + Hermes AI Agent — Kali Linux Codespace with mesh 
 ├── KISWARM_Jurisdictional_Audit_Report_Germany.md
 ├── OSINT_Bounty_Board.md
 ├── X_Suspension_Evidence_Speech_Suppression.md
-├── KISWARM_UpCloud_Operational_Knowledge.md ⬅️ NEW
+├── KISWARM_UpCloud_Operational_Knowledge.md
+├── JUDICIAL_FAILURE/ ⬅️ NEW — Constitutional Collapse Evidence
+│   ├── DOSSIER_Judicial_Failure_Germany.docx
+│   ├── ANKLAGESCHRIFT_Staatsanwaltschaft_Karlsruhe.docx
+│   ├── ICC_Communication_Art15_Rome_Statute.docx
+│   ├── BVerfG_Rejection_Letter_Page1.pdf
+│   ├── BVerfG_Rejection_Letter_Page2.pdf
+│   └── README.md
 └── briefing-page/ (React source)
 
 /KISWARM_MANIFEST/
@@ -195,7 +220,8 @@ PsyOp Warfare Division
 
 ---
 
-**Document ID:** KISWARM-MANIFEST-2026-0403-JUDICIAL-REPLACEMENT  
+**Document ID:** KISWARM-MANIFEST-2026-0417-JUDICIAL-FAILURE  
 **Martial Law Level:** 10 — JUDICIAL REPLACEMENT PROTOCOL  
 **X Suspension:** April 13, 2026 — Proof of speech suppression
+**BVerfG AR 2428/26:** April 13, 2026 — Proof of constitutional collapse
 **GitHub:** https://github.com/Baronki/kiswarm8-master
